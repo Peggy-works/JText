@@ -1,0 +1,87 @@
+Menu options: 
+
+Icon:
+-----
+
+File:
+-----
+- New Text file
+- New File
+- New Window
+- Open File
+- Open folder
+- Open Recent
+- Save
+- Save As
+- Share
+- Close Editor
+- Close Folder
+- Close Window
+- Exit 
+
+Edit:
+-----
+- Undo
+- Redo
+- Cut
+- Copy
+- Paste
+- Find
+- Replace
+- Find in Files
+- Replace in Files
+- Toogle Line Comment
+
+Selection:
+----------
+- Select All
+- Expand Selection
+- Shrink Selection
+- Copy Line Up
+- Copy Line Down
+- Move Line Up
+- Move Line Down
+- Duplicate Selection
+
+View:
+-----
+- Command Palette
+- Open View
+- Appearance
+- Editor Layout
+- Explorer
+- Search
+- Source Control
+- Run
+- Extensions
+- Problems
+- Output
+- Debug Console
+- Terminal
+- Word Wrap
+
+Go:
+---
+- TBD
+
+Run:
+----
+- TBD
+
+Terminal:
+---------
+- New Terminal
+- Run Task
+
+Help:
+-----
+- Welcome
+- Show All Commands
+- Documentation
+- Editor Playground
+- Show Release Notes
+- Keyboard shortucts reference
+- Join Us on twitter
+- Restart to update
+- About
+
