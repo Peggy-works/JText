@@ -1,8 +1,12 @@
+import ReactDOM from 'react-dom';
 import React from 'react';
+import Explorer from './components/Explorer';
 
 function App(){
     return(
-        <p>Hello world!</p>
+        <div>
+            <Explorer></Explorer>
+        </div>
     );
 }
 
