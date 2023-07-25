@@ -26,39 +26,39 @@ Edit:
 - Cut
 - Copy
 - Paste
-- Find
-- Replace
-- Find in Files
-- Replace in Files
+- Find (TBD)
+- Replace (TBD)
+- Find in Files (TBD)
+- Replace in Files (TBD)
 - Toogle Line Comment
 
 Selection:
 ----------
 - Select All
-- Expand Selection
-- Shrink Selection
-- Copy Line Up
-- Copy Line Down
-- Move Line Up
+- Expand Selection (TBD)
+- Shrink Selection (TBD)
+- Copy Line Up 
+- Copy Line Down 
+- Move Line Up 
 - Move Line Down
-- Duplicate Selection
+- Duplicate Selection (TBD)
 
 View:
 -----
 - Command Palette
-- Open View
-- Appearance
-- Editor Layout
-- Explorer
+- Open View (TBD)
+- Appearance (TBD)
+- Editor Layout (TBD)
+- Explorer (TBD)
 - Search
-- Source Control
-- Run
-- Extensions
-- Problems
-- Output
-- Debug Console
+- Source Control (TBD)
+- Run (TBD)
+- Extensions (TBD)
+- Problems (TBD)
+- Output (TBD)
+- Debug Console (TBD)
 - Terminal
-- Word Wrap
+- Word Wrap (TBD)
 
 Go:
 ---

@@ -21,6 +21,7 @@
     "electron-squirrel-startup": "^1.0.0"
   },
   "devDependencies": {
+    "@babel/cli": "^7.22.9",
     "@babel/core": "^7.22.9",
     "@babel/preset-env": "^7.22.9",
     "@babel/preset-react": "^7.22.5",
