@@ -6,6 +6,7 @@
   "main": "src/main.js",
   "scripts": {
     "start": "electron-forge start",
+    "build": "react-scripts build",
     "package": "electron-forge package",
     "make": "electron-forge make",
     "publish": "electron-forge publish",
@@ -35,6 +36,7 @@
     "electron": "25.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
     "webpack": "^5.88.1",
     "webpack-cli": "^5.1.4"
   }

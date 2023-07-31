@@ -2,7 +2,7 @@ import React from 'react';
 
 const Explorer = () => {
     return(
-        <div>Navigation</div>
+        <div>Navigation!</div>
     )
 }
 
