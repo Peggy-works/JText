@@ -17,7 +17,7 @@ const Editor = () => {
         //Return for the first re-render
         if(numOfLines == 1) return;
         //setCurrentLine((currentLine) => currentLine + 1)
-        console.log("re-rendered")
+        console.log("re-rendered");
         /**
          * This approach to change the cursor position works
          */
